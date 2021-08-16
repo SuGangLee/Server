@@ -1,0 +1,34 @@
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 07:41:00"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 07:44:26"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 07:51:07"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 07:51:57"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:06:07"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:13:43"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:19:32"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:22:24"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:27:43"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:29:12"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:29:45"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:33:26"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:34:23"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:36:55"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:38:55"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:42:30"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:44:17"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:44:51"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:49:07"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 08:52:49"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 09:09:03"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 09:13:51"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 09:29:44"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 09:31:15"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 09:32:24"}
+{"message":"App - createUser Service error\n: userDao.selectUsferNickname is not a function","level":"error","timestamp":"2021-08-16 09:33:05"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 09:34:07"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 10:44:43"}
+{"message":"App - postSignIn Service error\n: Table 'yanolja.UserInfo' doesn't exist \n{\"message\":\"Table 'yanolja.UserInfo' doesn't exist\",\"code\":\"ER_NO_SUCH_TABLE\",\"errno\":1146,\"sql\":\"\\n        SELECT status, id\\n        FROM UserInfo \\n        WHERE email = 'test@gmail.com';\",\"sqlState\":\"42S02\",\"sqlMessage\":\"Table 'yanolja.UserInfo' doesn't exist\"}","level":"error","timestamp":"2021-08-16 10:44:59"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 10:45:46"}
+{"message":"App - postSignIn Service error\n: Unknown column 'id' in 'field list' \n{\"message\":\"Unknown column 'id' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"\\n        SELECT status, id\\n        FROM User\\n        WHERE email = 'test@gmail.com';\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'id' in 'field list'\"}","level":"error","timestamp":"2021-08-16 10:45:47"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 10:46:34"}
+{"message":"App - postSignIn Service error\n: Unknown column 'id' in 'field list' \n{\"message\":\"Unknown column 'id' in 'field list'\",\"code\":\"ER_BAD_FIELD_ERROR\",\"errno\":1054,\"sql\":\"\\n        SELECT status, email, id\\n        FROM User\\n        WHERE email = 'test@gmail.com';\",\"sqlState\":\"42S22\",\"sqlMessage\":\"Unknown column 'id' in 'field list'\"}","level":"error","timestamp":"2021-08-16 10:46:36"}
+{"message":"development - API Server Start At Port 3000","level":"info","timestamp":"2021-08-16 10:47:10"}
