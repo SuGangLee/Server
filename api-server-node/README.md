@@ -123,3 +123,34 @@ Log는 winston, winston-daily-rotate-file 라이브러리를 사용해 구성했
 
 ## ✨License
 - 본 템플릿의 소유권은 소프트스퀘어드에 있습니다. 본 자료에 대한 상업적 이용 및 무단 복제, 배포 및 변경을 원칙적으로 금지하며 이를 위반할 때에는 형사처벌을 받을 수 있습니다.
+
+> 실제 app에서 사용하는 get 메소드를 사용하는 /test 라는 api하나 만드는 방법
+'''
+> 1. sftp 에 src/app/routes 에서 testRoute 생성
+> 2. sftp 에 src/app/routes 에서 testController 생성
+> 3. config/express.js에서 1에서 만든 라우트 파일을 express가 읽을 수 있도록 require('../src/app/routes/testRoute')(app); 을 추가한다.
+> 4. 이제 test.route.js 파일은 express와 연결되어있다. 그러니 이제 testRoute 파일에 get 메소드를 사용하는 /test라는 요청이 왔을 때, 어떤 동작을 해야할 지 코당한다.
+> 5. 그래서 아래 소스를 참고하여 route파일과 controller 파일을 연결해주도록 한다. 아래 소스코드 testRoute에 추가>
+> 
+    module.exports = function(app){
+         const test = require('../../../config/testController');
+         const jwtMiddleware = require('../../../config/jwtMiddleware');
+         api.get('/test', jwtMiddleware,test.practice);
+};
+
+지만 우선
+module.exports = function(app){
+const test = require('../../../config/testController');
+//  const jwtMiddleware = require('../../../config/jwtMiddleware');
+api.get('/test', test.default);
+}; 이렇게 진행
+
+---------------------------------------------------------------------------------------------------------
+
+6. testController 에 아래 소스 참고하여 test.practice 함수를 구현한다.
+exports.default = async function (req,res){
+    console.log("GET 메소드를 사용하는 /test 라우팅 연결이 성공하였습니다.");
+    res.json(message : ""GET 메소드를 사용하는 /test 라우팅 연결 성공");
+};
+---------------------------------------------------------------------------------------------------------
+7. 이로고 터미널에서 node index.js 파일을 실행시키고 , 포스트맨으로 테스트하여 결과를 확인한다. 

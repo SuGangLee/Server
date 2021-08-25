@@ -3,11 +3,11 @@ const {logger} = require('./winston');
 
 // TODO: 본인의 DB 계정 입력
 const pool = mysql.createPool({
-    host: 'lisugangdb.cf6svnf8io2k.ap-northeast-2.rds.amazonaws.com',
-    user: 'lisugang',
+    host: 'sugang-db.cf2wsaxl7da7.ap-northeast-2.rds.amazonaws.com',
+    user: 'sugangdb',
     port: '3306',
-    password: 'su3081802!',
-    database: 'yanolja'
+    password: 'Ssu3081802!',
+    database: 'CarrotMarket'
 });
 
 module.exports = {

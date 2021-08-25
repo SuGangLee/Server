@@ -1,0 +1,153 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 05:46:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:30:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:37:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:38:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:40:52"}
+{"message":"App - accusationProduct Service error, rollback\n: userDao is not defined","level":"error","timestamp":"2021-08-04 10:40:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:41:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:44:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:44:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:47:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:47:30"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:47:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:49:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:51:34"}
+{"message":"App - accusationProduct Service error, rollback\n: Cannot read property 'title' of undefined","level":"error","timestamp":"2021-08-04 10:51:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:58:14"}
+{"message":"App - accusationProduct Service error, rollback\n: accusationProvider.accusationCheck is not a function","level":"error","timestamp":"2021-08-04 10:58:16"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 10:59:03"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 10:59:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:00:39"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:00:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:03:31"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:03:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:04:05"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:04:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:04:29"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:04:30"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:05:01"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:05:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:09:54"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:09:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:10:52"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:10:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:11:08"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:11:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:12:30"}
+{"message":"App - accusationProduct Service error, rollback\n: connection is not defined","level":"error","timestamp":"2021-08-04 11:12:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:13:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:15:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:16:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:18:21"}
+{"message":"App - accusationProduct Service error, rollback\n: Column 'content' cannot be null","level":"error","timestamp":"2021-08-04 11:18:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:19:45"}
+{"message":"App - accusationProduct Service error, rollback\n: Cannot read property 'accusationed' of undefined","level":"error","timestamp":"2021-08-04 11:20:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:23:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:24:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:25:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:26:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:32:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:39:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:41:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:42:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:42:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:43:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:43:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:44:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 11:45:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 13:51:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 13:55:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:02:35"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'profile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:02:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:05:02"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'profile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:05:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:09:21"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'profile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:09:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:09:47"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'profile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:09:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:14:11"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'kakaoProfile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:14:14"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:14:52"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'kakaoProfile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:14:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:15:36"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'kakaoProfile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:15:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:16:26"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'kakaoProfile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:16:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:16:37"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'kakaoProfile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:16:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:17:44"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'profile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:17:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:18:06"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'email' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:18:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:19:22"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'email' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:20:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:21:00"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'profile' of undefined \n{}","level":"error","timestamp":"2021-08-04 14:21:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:24:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:26:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:28:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:33:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:40:11"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:43:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:43:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:46:05"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:46:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:47:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:48:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:50:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:50:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 14:51:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 15:30:13"}
+{"message":"App - socialLogin Service error\n: Cannot read property '0' of undefined \n{}","level":"error","timestamp":"2021-08-04 15:35:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 15:38:16"}
+{"message":"App - socialLogin Service error\n: Cannot read property '0' of undefined \n{}","level":"error","timestamp":"2021-08-04 15:38:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 15:39:20"}
+{"message":"App - socialLogin Service error\n: Cannot read property '0' of undefined \n{}","level":"error","timestamp":"2021-08-04 15:39:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 15:40:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 15:43:33"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'id' of undefined \n{}","level":"error","timestamp":"2021-08-04 15:43:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 15:44:08"}
+{"message":"App - socialLogin Service error\n: Cannot read property 'id' of undefined \n{}","level":"error","timestamp":"2021-08-04 15:44:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 15:45:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:15:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:17:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:17:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:19:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:21:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:21:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:37:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:51:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 16:55:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:23:05"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:24:25"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:25:15"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:26:07"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:26:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:27:55"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:27:57"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:28:57"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:28:59"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:29:38"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:29:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:30:40"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:30:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:33:00"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'password' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:33:02"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'status' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:34:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:35:30"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'status' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:35:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:37:22"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'status' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:37:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:37:49"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'status' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:37:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:40:27"}
+{"message":"App - postSignIn Service error\n: Cannot read property 'status' of undefined \n{}","level":"error","timestamp":"2021-08-04 17:40:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:41:27"}
+{"message":"App - postSignIn Service error\n: userDao.selectUserAccountEmail is not a function \n{}","level":"error","timestamp":"2021-08-04 17:41:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:41:51"}
+{"message":"App - postSignIn Service error\n: userID is not defined \n{}","level":"error","timestamp":"2021-08-04 17:41:52"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:42:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:47:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:50:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:50:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-04 17:51:38"}

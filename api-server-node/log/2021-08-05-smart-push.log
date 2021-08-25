@@ -1,0 +1,97 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 08:19:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 08:21:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 10:59:15"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:05:37"}
+{"message":"App - editProduct Service error\n: Column 'imgURL' cannot be null","level":"error","timestamp":"2021-08-05 11:06:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:08:37"}
+{"message":"App - editProduct Service error\n: Duplicate entry 'prodcutID 5' for key 'Product.PRIMARY'","level":"error","timestamp":"2021-08-05 11:08:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:09:01"}
+{"message":"App - editProduct Service error\n: Duplicate entry 'prodcutID 10' for key 'Product.PRIMARY'","level":"error","timestamp":"2021-08-05 11:09:02"}
+{"message":"App - editProduct Service error\n: Duplicate entry 'prodcutID 10' for key 'Product.PRIMARY'","level":"error","timestamp":"2021-08-05 11:09:53"}
+{"message":"App - editProduct Service error\n: Duplicate entry '0' for key 'Images.PRIMARY'","level":"error","timestamp":"2021-08-05 11:11:05"}
+{"message":"App - editProduct Service error\n: Duplicate entry 'productID 10' for key 'Product.PRIMARY'","level":"error","timestamp":"2021-08-05 11:11:41"}
+{"message":"App - editProduct Service error\n: Duplicate entry '0' for key 'Images.PRIMARY'","level":"error","timestamp":"2021-08-05 11:11:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:17:27"}
+{"message":"App - editProduct Service error\n: Duplicate entry '0' for key 'Images.PRIMARY'","level":"error","timestamp":"2021-08-05 11:17:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:18:56"}
+{"message":"App - editProduct Service error\n: Table 'CarrotMarket.Images' doesn't exist","level":"error","timestamp":"2021-08-05 11:18:58"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:20:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:21:33"}
+{"message":"App - editProduct Service error\n: Duplicate entry 'productID 11' for key 'Product.PRIMARY'","level":"error","timestamp":"2021-08-05 11:21:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:21:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:24:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:25:24"}
+{"message":"App - editProduct Service error\n: Duplicate entry 'productID 11' for key 'Product.PRIMARY'","level":"error","timestamp":"2021-08-05 11:25:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:26:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:29:39"}
+{"message":"App - editProduct Service error\n: Duplicate entry 'productID 11' for key 'Product.PRIMARY'","level":"error","timestamp":"2021-08-05 11:30:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:31:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:31:45"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:33:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:34:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:36:23"}
+{"message":"App - editProduct Service error\n: Duplicate entry 'productID 11' for key 'Product.PRIMARY'","level":"error","timestamp":"2021-08-05 11:36:24"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:47:23"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:47:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:48:26"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 11:48:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 12:13:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 12:15:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 12:19:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 12:55:03"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 13:07:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 13:08:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 13:13:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 13:47:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 13:49:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 13:49:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:13:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:18:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:19:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:19:47"}
+{"message":"App - editProduct Service error\n: Unknown column 'topic' in 'field list'","level":"error","timestamp":"2021-08-05 17:19:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:20:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:22:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:31:28"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:31:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:33:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:35:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:47:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:51:40"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 17:54:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:32:24"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:34:02"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:34:45"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:34:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:42:33"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:42:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:42:56"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:42:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:43:27"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:43:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:43:42"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:43:44"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:45:36"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:45:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:45:55"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:45:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:46:16"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:46:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:47:38"}
+{"message":"App - editProduct Service error\n: Unknown column 'contentID' in 'field list'","level":"error","timestamp":"2021-08-05 18:47:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:49:40"}
+{"message":"App - editProduct Service error\n: contentID is not defined","level":"error","timestamp":"2021-08-05 18:49:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:49:52"}
+{"message":"App - editProduct Service error\n: contentID is not defined","level":"error","timestamp":"2021-08-05 18:49:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:50:34"}
+{"message":"App - editProduct Service error\n: contentID is not defined","level":"error","timestamp":"2021-08-05 18:50:35"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:52:08"}
+{"message":"App - editProduct Service error\n: contentID is not defined","level":"error","timestamp":"2021-08-05 18:52:08"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:52:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:53:49"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:55:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 18:58:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 19:01:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 19:02:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 19:10:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-05 19:10:42"}
