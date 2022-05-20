@@ -6,7 +6,7 @@ const pool = mysql.createPool({
     host: 'sugang-db.cf2wsaxl7da7.ap-northeast-2.rds.amazonaws.com',
     user: 'sugangdb',
     port: '3306',
-    password: 'Ssu3081802!',
+    password: '',
     database: 'CarrotMarket'
 });
 
